@@ -4,12 +4,16 @@
   "description": "VS Code color theme inspired by Atom Duo Tone Dark Sea",
   "version": "1.0.1",
   "publisher": "MoOx",
-  "icon": "./icon.png",
+  "homepage": "https://github.com/MoOx/vscode-color-theme-dark-sea",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoOx/vscode-color-theme-dark-sea"
+  },
+  "icon": "icon.png",
   "galleryBanner": {
     "color": "#1d262f",
     "theme": "dark"
   },
-  "repository": "https://github.com/MoOx/vscode-color-theme-dark-sea",
   "engines": {
     "vscode": "^1.29.0"
   },
