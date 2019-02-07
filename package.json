@@ -14,6 +14,17 @@
     "color": "#1d262f",
     "theme": "dark"
   },
+  "keywords": [
+    "duo tone",
+    "dark sea",
+    "duo tone dark sea",
+    "tri tone",
+    "one dark",
+    "onedark",
+    "one dark pro",
+    "theme",
+    "atom"
+  ],
   "engines": {
     "vscode": "^1.29.0"
   },
