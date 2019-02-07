@@ -5,6 +5,10 @@
   "version": "1.0.1",
   "publisher": "MoOx",
   "icon": "./icon.png",
+  "galleryBanner": {
+    "color": "#1d262f",
+    "theme": "dark"
+  },
   "repository": "https://github.com/MoOx/vscode-color-theme-dark-sea",
   "engines": {
     "vscode": "^1.29.0"
