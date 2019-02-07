@@ -24,5 +24,8 @@
         "path": "./themes/dark-sea-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "release": "vsce publish"
   }
 }
