@@ -2,9 +2,9 @@
   "name": "dark-sea",
   "displayName": "Dark Sea",
   "description": "VS Code color theme inspired by Atom Duo Tone Dark Sea",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "publisher": "MoOx",
-  "license": "SEE LICENSE IN <filename>",
+  "license": "MIT",
   "homepage": "https://github.com/MoOx/vscode-color-theme-dark-sea",
   "repository": {
     "type": "git",
